@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @R031726.
-- 👀 I’m interested in HarmonyOS.
+- 👀 I’m interested in object detection.
 - 🌱 I’m currently learning Mechanical Engineering in University.
 - 📫 How to reach me :m18052579675@163.com
 
